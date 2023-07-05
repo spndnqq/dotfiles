@@ -69,7 +69,7 @@ Plug 'luochen1990/rainbow'							" Rainbow brackets
 Plug 'raimondi/delimitmate'							" Delimate
 Plug 'preservim/nerdtree'							" NerdTree
 Plug 'w0ng/vim-hybrid'								" Theme (Vim Hybrid)
-Plug 'ulwlu/elly.vim'								" Theme (Elly)
+Plug 'kuuote/elly.vim'								" Theme (Elly)
 Plug 'arcticicestudio/nord-vim'							" Theme (Nord)
 Plug 'yggdroot/indentline'							" IndemtLine
 Plug 'ryanoasis/vim-devicons'							" Vim Devicons
